@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "build": "echo 'Building the project...'",
+    "start": "http-server public"
+  }
+}
